@@ -1,26 +1,26 @@
 {
-  "name": "bot-template",
+  "name": "ts-bot-template",
   "version": "1.0.0",
   "description": "easy to use bot template",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
     "test": "nodemon src/index.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oli-idk/Bot-Template.git"
+    "url": "git+https://github.com/LuminescentDev/ts-Bot-template.git"
   },
   "keywords": [
     "discord.js",
     "discord",
     "bot"
   ],
-  "author": "AkiraDev, Saboor",
+  "author": "Luminescent Development",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Oli-idk/Bot-Template/issues"
+    "url": "https://github.com/LuminescentDev/ts-Bot-template/issues"
   },
-  "homepage": "https://github.com/Oli-idk/Bot-Template#readme",
+  "homepage": "https://github.com/LuminescentDev/ts-Bot-template#readme",
   "devDependencies": {
     "@types/node": "^20.1.1",
     "discord.js": "^14.7.1",
